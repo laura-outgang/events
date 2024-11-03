@@ -1,0 +1,5 @@
+vendor
+tests
+\load.php
+phpunit.xml
+.phpunit.result.cache
